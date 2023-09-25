@@ -2,10 +2,5 @@
 <manifest>
 
 
-  <project path="vendor/cm" name="LineageOS/android_vendor_cm" />
-  <project path="vendor/cmsdk" name="LineageOS/cm_platform_sdk" />
 
-  <!-- Tools -->
-  <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
-  <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
 </manifest>
