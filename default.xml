@@ -44,4 +44,5 @@
 
   
 
+  <project path="external/libusb" name="platform/external/libusb" groups="pdk-cw-fs,pdk" remote="aosp" />
 </manifest>
